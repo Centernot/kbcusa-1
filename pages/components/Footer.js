@@ -53,6 +53,7 @@ function Footer() {
       title: "တၢ်ဆဲးကျိး" ,
       link: "/components/SixHomePage/SixHomePage"
     },
+   
   ];
   return (
     <div className='bg h-54 text-white'>
